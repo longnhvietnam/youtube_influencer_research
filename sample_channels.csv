@@ -1,0 +1,5 @@
+channel_id,channel_name,channel_url,channel_handle,subscriber_count,country,description,total_videos,total_views,source_keyword
+UC_SAMPLE_001,Glow Skincare Vietnam,https://www.youtube.com/@glowskincarevn,@glowskincarevn,85000,Vietnam,"Skincare routines, acne care, and cosmetics reviews for Gen Z audiences in Vietnam.",220,12500000,skincare Vietnam
+UC_SAMPLE_002,Tech Creator Daily,https://www.youtube.com/@techcreatordaily,@techcreatordaily,240000,Singapore,"Reviews laptops, smartphones, AI tools, and productivity apps for professionals.",510,78000000,tech review
+UC_SAMPLE_003,Healthy Skin Lab,https://www.youtube.com/@healthyskinlab,@healthyskinlab,320000,United States,"Dermatology-backed skincare education, acne treatment explainers, sunscreen, and ingredient reviews.",340,45500000,acne care
+UC_SAMPLE_004,Vietnam Beauty Review,https://www.youtube.com/@vnbeautyreview,@vnbeautyreview,45000,Vietnam,"Affordable cosmetics reviews, oily and acne-prone skin routines, and drugstore brand comparisons.",180,8700000,#acnecare
